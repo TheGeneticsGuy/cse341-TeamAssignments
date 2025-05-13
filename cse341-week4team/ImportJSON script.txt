@@ -1,0 +1,1 @@
+mongoimport --uri "mongodb+srv://top24002:NAV1UNXfH16HllOg@contacts.qvjkmej.mongodb.net/contactsDB" --collection temples --type json --file temples.json --jsonArray
